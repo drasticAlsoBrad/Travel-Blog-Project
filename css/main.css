@@ -1,4 +1,16 @@
 body{
-	color: #000;
+	color: #975;
 	background-color: #000;
+}
+
+#map { 
+	height: 480px;
+}
+
+h1{
+	text-align: center;
+}
+
+.footer{
+	text-align: center;
 }
