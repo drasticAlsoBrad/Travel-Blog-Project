@@ -12,6 +12,7 @@ h1{
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 div {
     border: 1px solid red;
 }
@@ -29,6 +30,15 @@ div {
 
 =======
 >>>>>>> parent of d253318... Ug
+||||||| c4850d3... Added some border boxes
+div{
+	border-style: solid;
+	border-color: red !important;
+	border-width: 2px;
+}
+
+=======
+>>>>>>> parent of c4850d3... Added some border boxes
 .footer{
 	text-align: center;
 }
