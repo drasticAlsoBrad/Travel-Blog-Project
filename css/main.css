@@ -3,6 +3,12 @@ body{
 	background-color: #000;
 }
 
+div{
+	border-style: solid;
+	border-color: red !important;
+	border-width: 2px;
+}
+
 #map { 
 	height: 480px;
 }
