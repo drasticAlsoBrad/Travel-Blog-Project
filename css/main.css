@@ -6,7 +6,7 @@ body{
 div{
 	border-style: solid;
 	border-color: red !important;
-	border-width: 2px;
+	border-width: 3px;
 }
 
 #map { 
